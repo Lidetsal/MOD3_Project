@@ -7,7 +7,7 @@ This project aims to answer 2 questions
    - [Laurent Mundell](https://github.com/LaurentStar)
    - [Lidet Alemu](https://github.com/Lidetsal)
     
-### responsibilities/Task:
+### Responsibilities/Task:
    - _**Laurent Mundell**_
         - Collect Data using EIA's API
         - Graphed plot for explorations
